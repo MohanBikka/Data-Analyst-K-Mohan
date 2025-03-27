@@ -27,6 +27,9 @@ Project Workflow
 
 Step 1: Data Ingestion
 
+![image](https://github.com/user-attachments/assets/5ce4a552-9bc4-4c55-a894-971df586594a)
+
+
 The public trees dataset (CSV format) was stored in an Amazon S3 bucket named public-trees-project1-kmohan.
 
 The dataset contains raw, unprocessed data related to tree species, health conditions, locations, and maintenance records.
