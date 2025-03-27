@@ -22,8 +22,6 @@ Amazon Athena: Querying and analyzing data.
 
 Amazon EC2: Compute power for data processing.
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/50c615a9-248f-44c0-bb93-f779369b1761" />
-
 
 Project Workflow
 
@@ -114,6 +112,9 @@ AWS Data Governance & Monitoring for Public Trees in Vancouver
 Overview
 
 This project extends the work from Project 1, focusing on Data Security, Data Governance, and Data Monitoring for the Public Trees dataset in Vancouver. The goal is to ensure that data is properly analyzed, secured, governed, and monitored using AWS services. By leveraging AWS tools such as Amazon Athena, AWS Key Management Service (KMS), AWS Glue, Amazon S3, and AWS CloudTrail, this project enhances data-driven decision-making, enforces security policies, and implements monitoring mechanisms to track AWS resource utilization.
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/4722e32c-e109-4827-9810-33458fd9fb0e" />
+
 
 Technologies Used
 
