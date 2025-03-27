@@ -1,6 +1,6 @@
 # Data-Analyst-K-Mohan
 
-Project 1: Public Trees of Vancouver (Analysis)
+**Project 1: Public Trees of Vancouver (Analysis)**
 
 AWS Data Analytics Platform for Public Trees in Vancouver
 
@@ -109,7 +109,7 @@ Project 2: Public Trees of Vancouver (Analysis Part 2)
 
 AWS Data Governance & Monitoring for Public Trees in Vancouver
 
-Project 2: Data Analysis, Security, Governance, and Monitoring
+**Project 2: Data Analysis, Security, Governance, and Monitoring**
 
 Overview
 
@@ -214,9 +214,9 @@ This project demonstrates the importance of security, governance, and monitoring
 🚀 This project serves as a robust framework for scalable and secure urban data management in the cloud!
 
 
-AWS Academy Cloud Foundations Certification
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/5973c772-42ef-47bd-83e0-685ac47637c3" />
+
+**Certificate: AWS Academy Cloud Foundations Certification**
 
 
 Earning the AWS Academy Graduate - AWS Academy Cloud Foundations certification has been an enriching experience that significantly expanded my knowledge of cloud computing and AWS services. Here’s a breakdown of what I learned and how my understanding improved in various areas:
