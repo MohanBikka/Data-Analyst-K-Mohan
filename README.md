@@ -3,6 +3,9 @@
 Project 1: Public Trees of Vancouver (Analysis)
 
 AWS Data Analytics Platform for Public Trees in Vancouver
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/8f3e4994-3fd8-4546-8a89-0c8f2812295c" />
+
+
 
 Project 1: Data Ingestion, Profiling, Cleaning, Cataloging, and Summarization
 
