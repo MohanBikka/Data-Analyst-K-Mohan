@@ -216,6 +216,9 @@ This project demonstrates the importance of security, governance, and monitoring
 
 AWS Academy Cloud Foundations Certification
 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/5973c772-42ef-47bd-83e0-685ac47637c3" />
+
+
 Earning the AWS Academy Graduate - AWS Academy Cloud Foundations certification has been an enriching experience that significantly expanded my knowledge of cloud computing and AWS services. Here’s a breakdown of what I learned and how my understanding improved in various areas:
 
 Key Learnings and How My Knowledge Grew
@@ -277,5 +280,7 @@ This certification has been a game-changer for me. After completing it, I feel m
 Final Thoughts
 
 Going through the AWS Academy Cloud Foundations course has been an incredible learning journey. I have not only gained technical skills but also developed a strategic mindset for cloud computing. This knowledge has opened up new opportunities for me, and I am excited to continue learning and exploring more advanced AWS concepts. This is just the beginning of my cloud journey, and I can’t wait to take it further! 🚀
+
+\
 
 
