@@ -25,7 +25,7 @@ Amazon EC2: Compute power for data processing.
 
 Project Workflow
 
-Step 1: Data Ingestion
+**Step 1: Data Ingestion**
 
 ![image](https://github.com/user-attachments/assets/5ce4a552-9bc4-4c55-a894-971df586594a)
 
@@ -36,7 +36,9 @@ The dataset contains raw, unprocessed data related to tree species, health condi
 
 S3 ensures scalability, security, and accessibility for structured storage.
 
-Step 2: Data Profiling
+**Step 2: Data Profiling**
+
+
 
 AWS Glue DataBrew was used for profiling the dataset to understand its structure and quality.
 
@@ -46,7 +48,10 @@ Using DataBrew’s Separate Column function, the dataset was expanded into 15 co
 
 The profiling step helped detect missing values, duplicate records, and data inconsistencies.
 
-Step 3: Data Cleaning
+**Step 3: Data Cleaning**
+
+![image](https://github.com/user-attachments/assets/20c14352-f8da-4872-a1eb-b039a52b9b0d)
+
 
 DataBrew was utilized for cleaning the dataset, ensuring data consistency and accuracy.
 
@@ -64,7 +69,10 @@ Handled missing values by explicitly marking them as null.
 
 Dropped irrelevant columns to optimize dataset usability.
 
-Step 4: Data Cataloging
+**Step 4: Data Cataloging**
+
+![image](https://github.com/user-attachments/assets/e6b1f0b5-5248-419b-9b54-45070a936cd1)
+
 
 AWS Glue Data Catalog was implemented to organize and manage the processed data.
 
@@ -76,7 +84,10 @@ public-trees-metrics2 (summary metrics for urban analysis)
 
 The data was stored in Parquet format, enabling efficient querying and faster processing.
 
-Step 5: Data Summarization
+**Step 5: Data Summarization**
+
+![image](https://github.com/user-attachments/assets/1237956d-36c7-44f9-a0f1-d0dd5b88a574)
+
 
 Extract, Load, Transform (ELT) Pipelines were implemented to summarize key insights.
 
@@ -90,7 +101,7 @@ Aggregation techniques such as filtering, schema transformation, timestamp addit
 
 The final processed data was stored in S3 curated buckets for further reporting and analysis.
 
-Key Insights from the Project
+**Key Insights from the Project**
 
 Tree Distribution Trends: Identified species density and geographic patterns.
 
@@ -100,15 +111,15 @@ Urban Forestry Planning: Provided recommendations for tree maintenance and new p
 
 Efficient Data Management: Enabled automated data processing and real-time analytics using AWS services.
 
-Conclusion
+**Conclusion**
 
 This project successfully developed a cloud-based analytics platform for Vancouver’s public trees using AWS. The pipeline ensures efficient data ingestion, profiling, cleaning, cataloging, and summarization, enabling city planners, environmentalists, and policymakers to make informed decisions. Future improvements may include integrating weather data, pollution levels, and machine learning models for predictive analysis.
 
 🚀 This project demonstrates the power of AWS cloud computing in urban data analytics, setting the foundation for scalable and insightful environmental research.
 
-Project 2: Public Trees of Vancouver (Analysis Part 2)
 
-AWS Data Governance & Monitoring for Public Trees in Vancouver
+
+**AWS Data Governance & Monitoring for Public Trees in Vancouver**
 
 **Project 2: Data Analysis, Security, Governance, and Monitoring**
 
@@ -119,7 +130,7 @@ This project extends the work from Project 1, focusing on Data Security, Data Go
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/4722e32c-e109-4827-9810-33458fd9fb0e" />
 
 
-Technologies Used
+**Technologies Used**
 
 Amazon S3: Secure storage for raw, processed, and curated datasets.
 
@@ -135,7 +146,8 @@ Amazon CloudWatch: Tracking metrics and alerts for cost and performance monitori
 
 Project Workflow
 
-Step 1: Data Analysis
+**Step 1: Data Analysis**
+
 
 The Public Trees dataset was analyzed using Amazon Athena.
 
@@ -151,7 +163,7 @@ SQL functions (MIN, MAX, and AVG) were used to extract insights from the dataset
 
 These analyses help urban planners understand tree size distributions and make informed decisions on tree management and maintenance.
 
-Step 2: Data Security
+**Step 2: Data Security**
 
 Implemented AWS Key Management Service (KMS) to enforce encryption and access control.
 
@@ -169,7 +181,10 @@ Enabled versioning and encryption pairing to enhance security.
 
 Ensured compliance with AWS security best practices, protecting against unauthorized access and data breaches.
 
-Step 3: Data Governance
+**Step 3: Data Governance**
+
+![image](https://github.com/user-attachments/assets/e50b4e8f-ec84-4145-9b72-6a7d8dc70031)
+
 
 Created an ETL Pipeline using AWS Glue to enforce data quality checks.
 
@@ -185,7 +200,10 @@ Implemented access control policies to restrict unauthorized users from modifyin
 
 Used AWS IAM policies to grant specific access to different user groups.
 
-Step 4: Data Monitoring
+**Step 4: Data Monitoring**
+
+![image](https://github.com/user-attachments/assets/d4639333-e2ac-49f0-bffe-fd23fc96d5e8)
+
 
 AWS CloudTrail was used to track AWS service usage over three months.
 
@@ -201,7 +219,7 @@ Created a dedicated S3 folder to store event history logs for long-term auditabi
 
 Ensured compliance with data integrity standards through continuous monitoring and automated alerts.
 
-Key Insights from the Project
+**Key Insights from the Project**
 
 Data Analysis: Provided meaningful insights into Vancouver’s tree inventory.
 
@@ -211,8 +229,8 @@ Data Governance: Implemented structured ETL pipelines to ensure high-quality, cu
 
 Data Monitoring: Enabled real-time service tracking to optimize AWS resource usage and prevent security vulnerabilities.
 
-Conclusion
-
+**Conclusion
+**
 This project demonstrates the importance of security, governance, and monitoring in cloud-based data management. By utilizing AWS services, the Public Trees dataset was analyzed, secured, structured, and monitored, ensuring reliable and efficient urban planning. Future enhancements could include machine learning-based predictive analytics for monitoring tree health and environmental impact assessment.
 
 🚀 This project serves as a robust framework for scalable and secure urban data management in the cloud!
@@ -221,6 +239,9 @@ This project demonstrates the importance of security, governance, and monitoring
 
 
 **Certificate: AWS Academy Cloud Foundations Certification**
+
+![image](https://github.com/user-attachments/assets/be45a321-5bf4-4614-9914-ba3a4511bb2a)
+
 
 
 Earning the AWS Academy Graduate - AWS Academy Cloud Foundations certification has been an enriching experience that significantly expanded my knowledge of cloud computing and AWS services. Here’s a breakdown of what I learned and how my understanding improved in various areas:
