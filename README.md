@@ -50,7 +50,7 @@ The profiling step helped detect missing values, duplicate records, and data inc
 
 **Step 3: Data Cleaning**
 
-![image](https://github.com/user-attachments/assets/20c14352-f8da-4872-a1eb-b039a52b9b0d)
+![image](https://github.com/user-attachments/assets/b8fc99b5-5490-41b8-a6f0-97104c03034b)
 
 
 DataBrew was utilized to clean the dataset and ensure data consistency and accuracy.
