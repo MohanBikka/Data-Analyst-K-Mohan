@@ -182,9 +182,6 @@ Ensured compliance with AWS security best practices, protecting against unauthor
 
 **Step 3: Data Governance**
 
-![image](https://github.com/user-attachments/assets/e50b4e8f-ec84-4145-9b72-6a7d8dc70031)
-
-
 Created an ETL Pipeline using AWS Glue to enforce data quality checks.
 
 Implemented automated filtering:
@@ -199,10 +196,8 @@ Implemented access control policies to restrict unauthorized users from modifyin
 
 Used AWS IAM policies to grant specific access to different user groups.
 
+
 **Step 4: Data Monitoring**
-
-![image](https://github.com/user-attachments/assets/d4639333-e2ac-49f0-bffe-fd23fc96d5e8)
-
 
 AWS CloudTrail was used to track AWS service usage over three months.
 
