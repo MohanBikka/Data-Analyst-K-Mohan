@@ -27,7 +27,6 @@ Project Workflow
 
 **Step 1: Data Ingestion**
 
-![image](https://github.com/user-attachments/assets/5ce4a552-9bc4-4c55-a894-971df586594a)
 
 
 The public trees dataset (CSV format) was stored in an Amazon S3 bucket named public-trees-project1-kmohan.
@@ -40,7 +39,7 @@ S3 ensures scalability, security, and accessibility for structured storage.
 
 
 
-AWS Glue DataBrew was used for profiling the dataset to understand its structure and quality.
+AWS Glue DataBrew was used to profile the dataset and understand its structure and quality.
 
 Initial analysis showed 470 rows and 1 column, indicating a formatting issue that required column separation.
 
@@ -53,7 +52,7 @@ The profiling step helped detect missing values, duplicate records, and data inc
 ![image](https://github.com/user-attachments/assets/20c14352-f8da-4872-a1eb-b039a52b9b0d)
 
 
-DataBrew was utilized for cleaning the dataset, ensuring data consistency and accuracy.
+DataBrew was utilized to clean the dataset and ensure data consistency and accuracy.
 
 Actions taken:
 
