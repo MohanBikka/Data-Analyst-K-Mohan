@@ -199,6 +199,9 @@ Used AWS IAM policies to grant specific access to different user groups.
 
 **Step 4: Data Monitoring**
 
+![image](https://github.com/user-attachments/assets/e51a9fc2-d046-4636-a760-8bdc186ec110)
+
+
 AWS CloudTrail was used to track AWS service usage over three months.
 
 Created a dashboard to visualize AWS resource consumption, showing:
