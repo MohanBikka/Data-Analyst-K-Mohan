@@ -71,8 +71,6 @@ Dropped irrelevant columns to optimize dataset usability.
 
 **Step 4: Data Cataloging**
 
-![image](https://github.com/user-attachments/assets/e6b1f0b5-5248-419b-9b54-45070a936cd1)
-
 
 AWS Glue Data Catalog was implemented to organize and manage the processed data.
 
@@ -86,7 +84,8 @@ The data was stored in Parquet format, enabling efficient querying and faster pr
 
 **Step 5: Data Summarization**
 
-![image](https://github.com/user-attachments/assets/1237956d-36c7-44f9-a0f1-d0dd5b88a574)
+
+![image](https://github.com/user-attachments/assets/e92715ea-0c0c-4cb9-b926-ca470cdc808c)
 
 
 Extract, Load, Transform (ELT) Pipelines were implemented to summarize key insights.
